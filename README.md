@@ -1,16 +1,16 @@
-## Hi there 👋
+I am a young software engineer who is constantly looking to improve his skills and work on interesting things!
 
-<!--
-**JosephAcernese/JosephAcernese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️ [LinkedIn](https://www.linkedin.com/in/joseph-acernese/)
+- 🌐 [Website](https://josephacernese.github.io/)
+- 📄 [Resume](https://josephacernese.github.io/resume.pdf)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun Facts
+- ⏱ **40-Line Tetris Sprint Record**: 49 seconds
+- 🎓 **Education**: University of Guelph, Class of 2024
+
+---
+
+
+Thanks for visiting! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joseph-acernese/)! :)
