@@ -1,4 +1,4 @@
-I am a young software engineer who is constantly looking to improve his skills and work on interesting things!
+I am a software engineer who is constantly looking to improve his skills and work on interesting things!
 
 - 🖥️ [LinkedIn](https://www.linkedin.com/in/joseph-acernese/)
 - 🌐 [Website](https://josephacernese.github.io/)
