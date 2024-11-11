@@ -8,6 +8,7 @@ I am a software engineer who is constantly looking to improve his skills and wor
 
 ### ⚡ Fun Facts
 - ⏱ **40-Line Tetris Sprint Record**: 49 seconds
+- ♟️ **Highest Chess.com Rating (Rapid)**: 1419
 - 🎓 **Education**: University of Guelph, Class of 2024
 
 ---
